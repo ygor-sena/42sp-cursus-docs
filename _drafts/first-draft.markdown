@@ -13,4 +13,5 @@ Test to see how drafts works on Jekyll.
 	- cpp modules' tutorial
 	- economic policy of technology
  	- my experience through 42's hands-on projects
-  	- wsl tutorial 
+  	- wsl tutorial
+  	- concepts history/definitions
