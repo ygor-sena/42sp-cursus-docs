@@ -15,3 +15,4 @@ Test to see how drafts works on Jekyll.
  	- my experience through 42's hands-on projects
   	- wsl tutorial
   	- concepts history/definitions
+  	- ui/ux design from google specialization
