@@ -16,3 +16,4 @@ Test to see how drafts works on Jekyll.
   	- wsl tutorial
   	- concepts history/definitions
   	- ui/ux design from google specialization
+  	- what i have learned from each minipiscine
