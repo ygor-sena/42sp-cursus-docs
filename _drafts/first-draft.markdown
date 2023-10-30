@@ -17,3 +17,4 @@ Test to see how drafts works on Jekyll.
   	- concepts history/definitions
   	- ui/ux design from google specialization
   	- what i have learned from each minipiscine
+  	- data science concepts intro mindmaps
