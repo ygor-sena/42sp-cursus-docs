@@ -19,3 +19,4 @@ Test to see how drafts works on Jekyll.
   	- what i have learned from each minipiscine
   	- data science concepts intro mindmaps
   	- scrum concepts
+	- 42 docs actually could be a depository of technical terms and concepts learned thoughout the common core with tags to make them associated to each project description
