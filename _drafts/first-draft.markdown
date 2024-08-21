@@ -20,3 +20,4 @@ Test to see how drafts works on Jekyll.
   	- data science concepts intro mindmaps
   	- scrum concepts
 	- 42 docs actually could be a depository of technical terms and concepts learned thoughout the common core with tags to make them associated to each project description
+ 		- example of 42 docs I could configure: https://harm-smits.github.io/42docs/projects
